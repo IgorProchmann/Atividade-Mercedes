@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-color: #ECEDF2;
+}
+h1{
+    font-size: 50px;
+}
+
+.GT63S{
+    border-radius: 100px;
+    size: 80px;
+    width: 50%;
+    border: 1.5px solid black;
+}
+
+.motor{
+    border-radius: 100px;
+    size: 80px;
+    width: 50%;
+    border: 1.5px solid black;
+}
+
+.h32{
+    text-align: right 90px;
+}
